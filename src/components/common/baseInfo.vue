@@ -18,8 +18,20 @@
     <section class="contact">
       <ul>
         <li>
-          <a href="https://www.gangblog.xyz" target="_blank">
-            <span class="contact-link">我的技术博客</span>
+          <a href="http://www.gangblog.xyz" target="_blank">
+            <span class="contact-link">我的博客 | www.gangblog.xyz</span>
+            <span class="iconfont">
+              <svg width="16px" height="16px" viewBox="0 0 1024 1024">
+                <path
+                  d="M512 42.581333l-469.333333 469.333333 31.146667 31.146667L170.666667 446.250667l0 438.186667 682.666667 0L853.333333 446.208l96.853333 96.896 31.146667-31.146667L512 42.581333zM426.666667 841.770667l0-298.666667 170.666667 0 0 298.666667L426.666667 841.770667zM810.666667 841.770667l-170.666667 0 0-341.333333L384 500.437333l0 341.333333L213.333333 841.770667 213.333333 403.584l298.666667-298.666667 298.666667 298.666667L810.666667 841.770667z"
+                ></path>
+              </svg>
+            </span>
+          </a>
+        </li>
+        <li>
+          <a href="http://doc.gangblog.xyz" target="_blank">
+            <span class="contact-link">我的笔记 | doc.gangblog.xyz</span>
             <span class="iconfont">
               <svg width="16px" height="16px" viewBox="0 0 1024 1024">
                 <path
@@ -31,7 +43,9 @@
         </li>
         <li>
           <a href="https://github.com/cresentboy" target="_blank">
-            <span class="contact-link">Github</span>
+            <span class="contact-link"
+              >Github | https://www.github.com/cresentboy</span
+            >
             <span class="iconfont">
               <svg width="16px" height="16px" viewBox="0 0 1024 1024">
                 <path

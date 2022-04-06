@@ -27,7 +27,7 @@
                 <ol class="item-project">
                   <li class="project-1">
                     <div class="item-bd">
-                      <h3 class="project-name-1">项目名称</h3>
+                      <h3 class="project-name">项目名称</h3>
                       <div class="div-item">
                         <h3 class="project-des">【项目简介】</h3>
                         <p class="item-project-des">
@@ -48,7 +48,7 @@
 
                   <li class="project-1">
                     <div class="item-bd">
-                      <h3 class="project-name-1">项目名称</h3>
+                      <h3 class="project-name">项目名称</h3>
                       <div class="div-item">
                         <h3 class="project-des">【项目简介】</h3>
                         <p class="item-project-des">
@@ -93,7 +93,7 @@
                 <ol class="item-project">
                   <li class="project-1">
                     <div class="item-bd">
-                      <h3 class="project-name-1">项目名称</h3>
+                      <h3 class="project-name">项目名称</h3>
                       <div class="div-item">
                         <h3 class="project-des">【项目简介】</h3>
                         <p class="item-project-des">
@@ -222,18 +222,24 @@
       </section>
 
       <!--开源项目-->
-      <section class="project">
+      <!-- <section class="project">
         <header class="section-hd">
           <span class="section-title-l"></span>
           <h2 class="section-title">开源项目</h2>
           <span class="section-title-r"></span>
         </header>
         <div class="section-bd">
-          以下是我的开源项目与学习总结，细节请点击链接查看文档（其他项目开发中，尚未开源，敬请期待）
+          以下是我的开源项目与学习总结
           <div class="item">
-            <header class="item-hd">博客/Github</header>
+            <header class="item-hd">博客 | 笔记仓库</header>
             <div class="item-bd">
               <ul>
+                <li>
+                  <a href="http://www.gangblog.xyz" target="_blank"
+                    >个人网站主页 - http://www.gangblog.xyz</a
+                  >
+                </li>
+
                 <li>
                   <a href="http://doc.gangblog.xyz" target="_blank"
                     >笔记仓库 - http://doc.gangblog.xyz</a
@@ -241,19 +247,15 @@
                 </li>
                 <li>
                   <a href="http://www.github.com/cresentboy" target="_blank"
-                    >Github - http://www.github.com/cresentboy</a
+                    >Github - https://www.github.com/cresentboy</a
                   >
                 </li>
-                <li>
-                  <a href="http://www.gangblog.xyz" target="_blank"
-                    >个人网站主页 - http://www.gangblog.xyz</a
-                  >
-                </li>
+                
               </ul>
             </div>
           </div>  
         </div>
-      </section>
+      </section> -->
    
 
       <!--致谢-->
