@@ -24,10 +24,10 @@
                   <a href="#"  title=""></a>
                 </h3> -->
 
-                <ol>
-                  <li class="project-2">
+                <ol class="item-project">
+                  <li class="project-1">
                     <div class="item-bd">
-                      <h3 class="project-name-2">项目名称</h3>
+                      <h3 class="project-name-1">项目名称</h3>
                       <div class="div-item">
                         <h3 class="project-des">【项目简介】</h3>
                         <p class="item-project-des">
@@ -46,9 +46,9 @@
                     </div>
                   </li>
 
-                  <li class="project-2">
+                  <li class="project-1">
                     <div class="item-bd">
-                      <h3 class="project-name-2">项目名称</h3>
+                      <h3 class="project-name-1">项目名称</h3>
                       <div class="div-item">
                         <h3 class="project-des">【项目简介】</h3>
                         <p class="item-project-des">
@@ -90,10 +90,10 @@
                   <a href="#"  title=""></a>
                 </h3> -->
 
-                <ol>
-                  <li class="project-2">
+                <ol class="item-project">
+                  <li class="project-1">
                     <div class="item-bd">
-                      <h3 class="project-name-2">项目名称</h3>
+                      <h3 class="project-name-1">项目名称</h3>
                       <div class="div-item">
                         <h3 class="project-des">【项目简介】</h3>
                         <p class="item-project-des">
@@ -154,7 +154,7 @@
             </div>
           </div>
 
-          <!--React-->
+          <!-- -->
           <div class="item">
             <header class="item-hd">
               <span class="item-time">数据库</span>
@@ -222,7 +222,7 @@
       </section>
 
       <!--开源项目-->
-      <!-- <section class="project">
+      <section class="project">
         <header class="section-hd">
           <span class="section-title-l"></span>
           <h2 class="section-title">开源项目</h2>
@@ -236,24 +236,24 @@
               <ul>
                 <li>
                   <a href="http://doc.gangblog.xyz" target="_blank"
-                    >笔记仓库</a
+                    >笔记仓库 - http://doc.gangblog.xyz</a
                   >
                 </li>
                 <li>
                   <a href="http://www.github.com/cresentboy" target="_blank"
-                    >Github</a
+                    >Github - http://www.github.com/cresentboy</a
                   >
                 </li>
                 <li>
                   <a href="http://www.gangblog.xyz" target="_blank"
-                    >个人网站主页</a
+                    >个人网站主页 - http://www.gangblog.xyz</a
                   >
                 </li>
               </ul>
             </div>
           </div>  
         </div>
-      </section> -->
+      </section>
    
 
       <!--致谢-->
