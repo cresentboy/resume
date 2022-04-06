@@ -10,20 +10,19 @@
         <div class="section-bd">
           <!--经历-->
           <div class="item">
-
             <header class="item-hd">
-              <h3 class="item-name">成都艾勃科技 </h3>
-              <span class="item-time">2019.04 至 2020.03</span>
-              <a class="btn item-more" href="#" title=""
-                >工作</a
-              >
+              <h3 class="item-name"> 成都创立信息科技有限公司</h3>
+              <span class="item-time">2020.04 至 2022.03</span>
+              <a class="btn item-more" href="#" title="">工作</a>
             </header>
 
-            <ol class="item-project">
+          
+
+            <!-- <ol class="item-project">
               <li class="project-1">
                 <h3 class="project-name">
                   <a href="#"  title=""></a>
-                </h3>
+                </h3> -->
 
                 <ol>
                   <li class="project-2">
@@ -69,74 +68,27 @@
                         </ul>
                       </div>
                     </div>
-                  </li>
-
-                  <!-- <li class="project-2">
-                    <div class="item-bd">
-                      <h3 class="project-name-2"></h3>
-                      <div class="div-item">
-                        <h3 class="project-des">【项目简介】</h3>
-                        <p class="item-project-des">
-                          ...
-                        </p>
-                      </div>
-                      <div class="div-item">
-                        <h3 class="project-des">【工作职责】</h3>
-                        <ul class="section-content">
-                          <li>
-                            ...
-                          </li>
-                        </ul>
-                      </div>
-                    </div>
-                  </li> -->
+                  </li>                
                 </ol>
-              </li>
 
-              <!-- <li class="project-1">
-                <h3 class="project-name">
-                  <a href="#" target="_blank" title="">...</a>
-                </h3>
-                <ol>
-                  <li class="project-2">
-                    <div class="item-bd">
-                      <h3 class="project-name-2">...</h3>
-                      <div class="div-item">
-                        <h3 class="project-des">【项目简介】</h3>
-                        <p class="item-project-des">
-                          该项目是
-                        </p>
-                      </div>
-                      <div class="div-item">
-                        <h3 class="project-des">【工作职责】</h3>
-                        <ul class="section-content">
-                          <li>负责项目框架搭建</li>
-                          <li>
-                            介绍
-                          </li>
-                        </ul>
-                      </div>
-                    </div>
-                  </li>
-                </ol>
-              </li> -->
-           
-            </ol>
+              <!-- </li>                   
+            </ol> -->
+
           </div>
 
           <!--经历-->
           <div class="item">
-            <header class="item-hd">
-              <h3 class="item-name"> 成都创立信息科技</h3>
-              <span class="item-time">2020.04 至 2022.03</span>
+             <header class="item-hd">
+              <h3 class="item-name">纬创软件</h3>
+              <span class="item-time">2019.06 至 2020.03</span>
               <a class="btn item-more" href="#" title="">工作</a>
             </header>
 
-           <ol class="item-project">
+           <!-- <ol class="item-project">
               <li class="project-1">
                 <h3 class="project-name">
                   <a href="#"  title=""></a>
-                </h3>
+                </h3> -->
 
                 <ol>
                   <li class="project-2">
@@ -159,8 +111,10 @@
                     </div>
                   </li>              
                 </ol>
-              </li>       
-            </ol>    
+
+              <!-- </li>       
+            </ol>     -->
+
     </section>
   </div>
 

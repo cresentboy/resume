@@ -10,7 +10,7 @@
     </section>
     <section class="info">
       <ul>
-        <li>男 / 1997</li>
+        <li>男 | 1997</li>
         <li>西南石油大学成都校区</li>
         <li>本科 | 2019年6月毕业</li>
       </ul>
