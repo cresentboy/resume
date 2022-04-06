@@ -5,14 +5,14 @@
         <h1>蒋志刚</h1>
       </div>
       <div class="job">
-        <h2>大数据/Java开发</h2>
+        <h2>大数据 | Java开发</h2>
       </div>
     </section>
     <section class="info">
       <ul>
         <li>男 / 1997</li>
         <li>西南石油大学成都校区</li>
-        <li>本科 / 2019年6月毕业</li>
+        <li>本科 | 2019年6月毕业</li>
       </ul>
     </section>
     <section class="contact">

@@ -8,24 +8,27 @@
           <span class="section-title-r"></span>
         </header>
         <div class="section-bd">
-          <!--经历:-->
+          <!--经历-->
           <div class="item">
+
             <header class="item-hd">
-              <h3 class="item-name"></h3>
+              <h3 class="item-name">成都艾勃科技 </h3>
               <span class="item-time">2019.04 至 2020.03</span>
-              <a class="btn item-more" href="#" target="_blank" title=""
+              <a class="btn item-more" href="#" title=""
                 >工作</a
               >
             </header>
+
             <ol class="item-project">
               <li class="project-1">
                 <h3 class="project-name">
-                  <a href="#" target="_blank" title="">...</a>
+                  <a href="#"  title=""></a>
                 </h3>
+
                 <ol>
                   <li class="project-2">
                     <div class="item-bd">
-                      <h3 class="project-name-2">...</h3>
+                      <h3 class="project-name-2">项目名称</h3>
                       <div class="div-item">
                         <h3 class="project-des">【项目简介】</h3>
                         <p class="item-project-des">
@@ -38,23 +41,15 @@
                           <li>
                             负责项目框架搭建以及疑难问题解决，为项目成员提供开发思路
                           </li>
-                          <li>
-                            主导整个项目正常开发流程，研究了高可用、高并发服务器的架构设计（keepalived+nginx+haproxy）
-                          </li>
-                          <li>
-                            对常用数据进行缓存处理（Redis），并对[撮合引擎]系统进行了架构设计，采用Redis内存撮合、Rabbit
-                            MQ消息队列异步入库实现高性能撮合系统，从而实现撮合引擎弹性伸缩
-                          </li>
-                          <li>
-                            针对Redis可能出现脏读的问题可以采用消息队列处理，消除多线程同一时间操作同一Redis数据的脏读问题；或可以通过Redis锁解决高并发的脏读问题（不推荐，可能会造成无效等待）
-                          </li>
+                         
                         </ul>
                       </div>
                     </div>
                   </li>
+
                   <li class="project-2">
                     <div class="item-bd">
-                      <h3 class="project-name-2">...</h3>
+                      <h3 class="project-name-2">项目名称</h3>
                       <div class="div-item">
                         <h3 class="project-des">【项目简介】</h3>
                         <p class="item-project-des">
@@ -75,7 +70,8 @@
                       </div>
                     </div>
                   </li>
-                  <li class="project-2">
+
+                  <!-- <li class="project-2">
                     <div class="item-bd">
                       <h3 class="project-name-2"></h3>
                       <div class="div-item">
@@ -93,10 +89,11 @@
                         </ul>
                       </div>
                     </div>
-                  </li>
+                  </li> -->
                 </ol>
               </li>
-              <li class="project-1">
+
+              <!-- <li class="project-1">
                 <h3 class="project-name">
                   <a href="#" target="_blank" title="">...</a>
                 </h3>
@@ -122,59 +119,52 @@
                     </div>
                   </li>
                 </ol>
-              </li>
+              </li> -->
+           
+            </ol>
+          </div>
+
+          <!--经历-->
+          <div class="item">
+            <header class="item-hd">
+              <h3 class="item-name"> 成都创立信息科技</h3>
+              <span class="item-time">2020.04 至 2022.03</span>
+              <a class="btn item-more" href="#" title="">工作</a>
+            </header>
+
+           <ol class="item-project">
               <li class="project-1">
                 <h3 class="project-name">
-                  <a
-                    href="http://www.ledianyun.com/"
-                    target="_blank"
-                    title="点击进入->乐店云商城系统"
-                    >...</a
-                  >
+                  <a href="#"  title=""></a>
                 </h3>
+
                 <ol>
                   <li class="project-2">
                     <div class="item-bd">
-                      <h3 class="project-name-2">后台开发</h3>
+                      <h3 class="project-name-2">项目名称</h3>
                       <div class="div-item">
                         <h3 class="project-des">【项目简介】</h3>
                         <p class="item-project-des">
-                          <a href="#" target="_blank" title="">乐店云</a
-                          >是一个专门为商户提供新零售智慧店铺解决方案的<a
-                            href="#"
-                            target="_blank"
-                            title=""
-                            >简介</a
-                          >。介绍
+                          该项目为等多项服务组成。
                         </p>
                       </div>
                       <div class="div-item">
                         <h3 class="project-des">【工作职责】</h3>
                         <ul class="section-content">
                           <li>
-                            负责拼团功能开发，该功能主要涉及用户与用户共同下单逻辑，需要保证在库存无误的情况下，实现多用户订单的提交与交易的正常进行
-                          </li>
-                          <li>负责官网的开发以及官网搜索引擎优化</li>
+                            负责项目框架搭建以及疑难问题解决，为项目成员提供开发思路
+                          </li>                     
                         </ul>
                       </div>
                     </div>
-                  </li>
+                  </li>              
                 </ol>
-              </li>
-            </ol>
-          </div>
+              </li>       
+            </ol>    
+    </section>
+  </div>
 
-          <!--经历:伴知旅行-->
-          <div class="item">
-            <header class="item-hd">
-              <h3 class="item-name">河南伴知旅行网络科技有限公司(郑州)</h3>
-              <span class="item-time">2020.04 至 2022.03</span>
-              <a class="btn item-more" href="#" title="">工作</a>
-            </header>
-          </div>
-        </div>
-      </section>
-    </div>
+
     <div class="content-right">
       <section class="skill">
         <header class="section-hd">

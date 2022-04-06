@@ -19,6 +19,4 @@ npm run dev
 npm run build
 ```
 
-将打包之后的 dist 目录改为 docs
 
-push 之后将仓库 settings -> GitHub pages 中的 source 改为分支 + docs
