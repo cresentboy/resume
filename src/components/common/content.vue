@@ -127,10 +127,10 @@
           <span class="section-title-r"></span>
         </header>
         <div class="section-bd">
-          <!--技能:WEB后端开发-->
+          <!--技能:后端开发-->
           <div class="item">
             <header class="item-hd">
-              <span class="item-time">WEB后端开发</span>
+              <span class="item-time">后端开发</span>
               <a class="btn item-more">熟练掌握</a>
             </header>
             <div class="item-bd">
