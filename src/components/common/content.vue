@@ -157,12 +157,12 @@
           <!-- -->
           <div class="item">
             <header class="item-hd">
-              <span class="item-time">数据库</span>
+              <span class="item-time">大数据</span>
               <a class="btn item-more">熟练掌握</a>
             </header>
             <div class="item-bd">
               <ul class="section-content">
-                <li>熟悉关系型数据库技术，熟练使用关系型数据库Mysql、Oracle</li>
+                <li>离线数仓、实时数仓</li>
                 <li>
                   熟悉非关系型数据库技术，熟练使用非关系型数据库Nosql：Redis
                 </li>
