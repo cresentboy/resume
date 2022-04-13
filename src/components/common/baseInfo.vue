@@ -5,7 +5,7 @@
         <h1>蒋志刚</h1>
       </div>
       <div class="job">
-        <h2>大数据 | Java开发</h2>
+        <h2>大数据开发</h2>
       </div>
     </section>
     <section class="info">
