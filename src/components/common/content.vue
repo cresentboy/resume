@@ -52,8 +52,7 @@
                       <div class="div-item">
                         <h3 class="project-des">【项目简介】</h3>
                         <p class="item-project-des">
-                          该项目前端开发框架采用目前市面流行的Vue.js框架与Element
-                          UI 2.0。采用websocket、TradingView、vuex等技术栈
+                         项目简介
                         </p>
                       </div>
                       <div class="div-item">
