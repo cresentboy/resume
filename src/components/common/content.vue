@@ -12,7 +12,7 @@
           <div class="item">
             <header class="item-hd">
               <h3 class="item-name"> 成都创立信息科技有限公司</h3>
-              <span class="item-time">2020.04 至 2022.03</span>
+              <span class="item-time">2020.05 至 2022.04</span>
               <a class="btn item-more" href="#" title="">工作</a>
             </header>
 
@@ -79,7 +79,7 @@
           <div class="item">
              <header class="item-hd">
               <h3 class="item-name">纬创软件</h3>
-              <span class="item-time">2019.06 至 2020.03</span>
+              <span class="item-time">2019.06 至 2020.04</span>
               <a class="btn item-more" href="#" title="">工作</a>
             </header>
 
@@ -140,15 +140,8 @@
                 <li>
                   熟练使用Spring Boot、SpringMVC等主流框架，熟悉Restful
                   风格API设计
-                </li>
-
-                <li>熟练使用Jwt等用户鉴权产品</li>
-                <li>熟悉API开发基本流程，熟悉Restful 风格API设计</li>
-
-                <li>
-                  了解Spring cloud，正学习Spring
-                  cloud在企业大型应用中的应用，以及大型应用的微服务化及服务治理知识学习
-                </li>
+                </li>           
+                 
               </ul>
             </div>
           </div>
